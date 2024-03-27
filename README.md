@@ -3,7 +3,6 @@
 <br>
 me chamo Matheus, tenho 25 anos. Atualmente, estou estudando para me tornar um desenvolvedor front-end júnior. Estou dedicando-me para conseguir minha primeira oportunidade nessa área, pois atualmente trabalho como técnico de informática e estou buscando essa transição de carreira na programação."
 <br>
-<br>
 <h1> linguagem que estou estudando</h1>
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo javascript" >
@@ -12,3 +11,5 @@ me chamo Matheus, tenho 25 anos. Atualmente, estou estudando para me tornar um d
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo html" >
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo css">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="logo git">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusEmanoel25)](https://github.com/anuraghazra/github-readme-stats)
